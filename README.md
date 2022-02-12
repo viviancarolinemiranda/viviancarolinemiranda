@@ -19,8 +19,8 @@
 </div><br>
   
 <div>
-  <a href = "mailto:vivianmiranda@alunos.utfpr.edu.br"><img width="48" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/viviancaroline/" target="_blank"><img width="48" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:vivianmiranda@alunos.utfpr.edu.br"><img width="48%" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/viviancaroline/" target="_blank"><img width="48%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/viviancarolinemiranda/viviancarolinemiranda/blob/output/github-contribution-grid-snake.svg)
  
