@@ -1,7 +1,7 @@
 ## Olá, me chamo Carol ! 
 ### Bem vindo ao meu perfil GitHub
 
-- 🌱 Atualmente estou prendendo tecnologias front e back-end
+- 🌱 Atualmente estou aprendendo tecnologias front e back-end
 - 📫 Contate-me pelo email: vivianmiranda@alunos.utfpr.edu.br
 - 😄 Pronome: ela/dela
 
