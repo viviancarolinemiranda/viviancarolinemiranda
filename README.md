@@ -1,4 +1,4 @@
-## Olá, me chamo Carol ! 
+## Olá, me chamo Carol! 
 ### Bem vindo ao meu perfil GitHub
 
 - 🌱 Atualmente estou aprendendo tecnologias front e back-end
