@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/viviancarolinemiranda">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=viviancarolinemiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="136em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviancarolinemiranda&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=viviancarolinemiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviancarolinemiranda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
