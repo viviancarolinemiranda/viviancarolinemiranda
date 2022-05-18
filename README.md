@@ -3,7 +3,6 @@
 
 - 🌱 Atualmente estou aprendendo tecnologias front e back-end
 - 📫 Contate-me pelo email: vivianmiranda@alunos.utfpr.edu.br
-- 😄 Pronome: ela/dela
 
 <div align="center">
   <a href="https://github.com/viviancarolinemiranda">
